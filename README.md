@@ -20,11 +20,12 @@ Before you begin, ensure you have met the following requirements:
 
 ### 1. Clone project and install dependencies
 git clone https://github.com/nayemislam33046/LearnTrack/tree/master/backend
-composer install
-cp .env.example .env
-php artisan key:generate
+
+#### composer install
+
+#### php artisan key:generate
  
-you have to connect mysql in .env file 
+### you have to connect mysql in .env file 
 
 ### 2. Database setup (configure .env first!)
 php artisan migrate
