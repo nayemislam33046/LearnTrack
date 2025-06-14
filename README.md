@@ -7,7 +7,7 @@
 Before you begin, ensure you have met the following requirements:
 - Node.js (version 20 or higher)
 
-### 1. git clone https://github.com/nayemislam33046/LearnTrack/tree/master/backend
+### 1. https://github.com/nayemislam33046/LearnTrack/tree/master/frontend
 
 ### 2. Install the application 
 #### npm install 
